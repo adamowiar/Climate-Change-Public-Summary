@@ -31,7 +31,7 @@ Western practices and reluctance to change modern policies have exacerbated the 
 
 ---
 
-## 3. How are Canadian Climate Policies Developed?
+## 3. The Development of Canadian Climate Policies 
 
 Canadian policies shape how governments identify, evaluate, and respond to social, environmental, and economic challenges across the country (Government of Canada 2017). However, the Canadian government has demonstrated systemic biases that impede meaningful collaboration with Indigenous peoples, often developing policies that undermine their involvement. While legal decisions proclaim to respect Indigenous rights, government officials are not required to follow Indigenous laws or decision-making traditions. That means Indigenous communities can participate in consultations, but their consent or traditional governance systems are not built into the approval framework (Figure 2) (Government of Canada 2025a). 
 
