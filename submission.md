@@ -3,8 +3,7 @@ A Two-Eyed-Seeing Approach
 
 
 ### Group 8
-### Members: Mara Girleanu, Tazeen Hemraj, Adam Owiar,
-Vamika Sharma, and Asia Vanzante
+### Members: Mara Girleanu, Tazeen Hemraj, Adam Owiar, Vamika Sharma, and Asia Vanzante
 
 
 ---
@@ -23,6 +22,7 @@ The effects of the climate crisis cannot be fully mitigated without the reframin
 Western practices and reluctance to change modern policies have exacerbated the consequences of climate change (Daigle et al. 2015). Colonialism has systematically placed Indigenous peoples into ecologically fragile zones to prioritize colonial access to more desirable lands (Figure 1). These decisions have left Indigenous communities with unsafe housing, polluted food and water systems, and limited infrastructure (Shute et al. 2024). Collectively, these factors create disproportionate vulnerability to floods, wildfires, sea level rise, and other climate disasters for Indigenous communities, perpetuating social and health inequities that colonialism initially imposed and continues to sustain (Government of Canada 2022). 
 
 <img width="1225" height="1061" alt="image" src="https://github.com/user-attachments/assets/aabb26df-43fb-4298-beb1-53c117c2cd35" />
+![Alt text](path/to/image.png)
 
 
 *Figure 1: Climate change-related environmental issues in Canada, along with the locations of Indigenous groups in various provinces and territories. The Indigenous groups have been situated in environmentally hazardous areas in which climate change is more pronounced. From the Nlaka’pamux in British Columbia to the Inuit of the Arctic, the Cree Nation of Chisasibi in northern Quebec, Grassy Narrows in Ontario, and the Eskasoni Mi’kmaq First Nation in Atlantic Canada, each faces region-specific climate threats. Together, the colonial roots of the placement of Indigenous communities have made them disproportionately vulnerable to accelerating climate change in the modern day. Figure adapted from the Government of Canada 2022.*
