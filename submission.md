@@ -22,7 +22,8 @@ The effects of the climate crisis cannot be fully mitigated without the reframin
 Western practices and reluctance to change modern policies have exacerbated the consequences of climate change (Daigle et al. 2015). Colonialism has systematically placed Indigenous peoples into ecologically fragile zones to prioritize colonial access to more desirable lands (Figure 1). These decisions have left Indigenous communities with unsafe housing, polluted food and water systems, and limited infrastructure (Shute et al. 2024). Collectively, these factors create disproportionate vulnerability to floods, wildfires, sea level rise, and other climate disasters for Indigenous communities, perpetuating social and health inequities that colonialism initially imposed and continues to sustain (Government of Canada 2022). 
 
 
-![Alt text](path/to/<img width="1225" height="1061" alt="Screenshot 2025-11-16 175833" src="https://github.com/user-attachments/assets/74404a0f-c986-40e0-9751-f34a42029536" />
+![Alt text](First.png)
+
 
 
 *Figure 1: Climate change-related environmental issues in Canada, along with the locations of Indigenous groups in various provinces and territories. The Indigenous groups have been situated in environmentally hazardous areas in which climate change is more pronounced. From the Nlaka’pamux in British Columbia to the Inuit of the Arctic, the Cree Nation of Chisasibi in northern Quebec, Grassy Narrows in Ontario, and the Eskasoni Mi’kmaq First Nation in Atlantic Canada, each faces region-specific climate threats. Together, the colonial roots of the placement of Indigenous communities have made them disproportionately vulnerable to accelerating climate change in the modern day. Figure adapted from the Government of Canada 2022.*
@@ -35,7 +36,7 @@ Western practices and reluctance to change modern policies have exacerbated the 
 Canadian policies shape how governments identify, evaluate, and respond to social, environmental, and economic challenges across the country (Government of Canada 2017). However, the Canadian government has demonstrated systemic biases that impede meaningful collaboration with Indigenous peoples, often developing policies that undermine their involvement. While legal decisions proclaim to respect Indigenous rights, government officials are not required to follow Indigenous laws or decision-making traditions. That means Indigenous communities can participate in consultations, but their consent or traditional governance systems are not built into the approval framework (Figure 2) (Government of Canada 2025a). 
 
 
-<img width="1301" height="610" alt="image" src="https://github.com/user-attachments/assets/d53a4118-8409-4e1d-840f-d03af3160913" />
+![Alt text](Second.png)
 
 *Figure 2:  Overview of the Canadian federal government and its relationship to Indigenous self-governance. Canada’s constitutional structure begins with the Crown, represented federally by the Governor General. Beneath this are three branches: the Judicial Branch, the Legislative Branch, made up of the elected House of Commons and appointed Senate, and the Executive Branch, led by the Prime Minister and Cabinet. Indigenous peoples maintain distinct systems of self-governance that interact with, but operate outside of, this federal structure (Government of Canada 2025b).*
 
